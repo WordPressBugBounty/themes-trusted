@@ -1,0 +1,1419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trusted 1.9.9\n"
+"POT-Creation-Date: 2024-04-10 14:22+0100\n"
+"PO-Revision-Date: 2024-04-10 14:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: uxlthemes.com\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: functions/translations.php\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Oops!, Parece que esta página son existe."
+
+#: 404.php:13
+msgid "Maybe try a search?"
+msgstr "¿Probar con una búsqueda?"
+
+#: 404.php:15
+#, fuzzy
+msgid "Browse our pages."
+msgstr "Navegue por nuestras páginas."
+
+#. translators: %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una Respuesta a &ldquo;%s&rdquo;"
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Responder a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Responder a &ldquo;%2$s&rdquo;"
+
+#: comments.php:62
+msgid "Previous"
+msgstr "Anterior"
+
+#: comments.php:63
+msgid "Next"
+msgstr "Siguiente"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primer artículo?<a href=\"%1$s\">Empezar aquí</a>."
+
+#: content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, tu búsqueda no produjo ningún resultado. Inténtalo de nuevo con "
+"otras palabras."
+
+#: content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no encontramos lo que buscas. Tal vez una búsqueda puede ayudar."
+
+#: content-page.php:16 content-single.php:21 content.php:34
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post
+#: content-page.php:27 functions/template-tags.php:76
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: content.php:40
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: functions.php:33
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: functions.php:103
+#, fuzzy
+msgid "Person Working on Laptop"
+msgstr "Persona que trabaja en el portátil"
+
+#: functions.php:129
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:131
+#, fuzzy
+msgid "Sidebar for posts, blog index and archives."
+msgstr "Barra lateral para entradas, índice de blogs y archivos."
+
+#: functions.php:139
+msgid "Home Page Sidebar"
+msgstr "Barra lateral de la página de inicio"
+
+#: functions.php:141
+#, fuzzy
+msgid "Sidebar for the home page template."
+msgstr "Barra lateral para la plantilla de la página de inicio."
+
+#: functions.php:149
+msgid "Page Sidebar"
+msgstr "Barra lateral de la página"
+
+#: functions.php:151
+#, fuzzy
+msgid "Sidebar for standard pages."
+msgstr "Barra lateral para páginas estándar."
+
+#: functions.php:159
+msgid "Shop Sidebar"
+msgstr "Barra lateral de la tienda"
+
+#: functions.php:161
+#, fuzzy
+msgid "Sidebar for WooCommerce pages."
+msgstr "Barra lateral para las páginas de WooCommerce."
+
+#: functions.php:169
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: functions.php:171
+#, fuzzy
+msgid "Add your own content above the header."
+msgstr "Añade tu propio contenido encima del encabezado."
+
+#: functions.php:179
+msgid "Footer Column 1"
+msgstr "Columna de pie de página 1"
+
+#: functions.php:189
+msgid "Footer Column 2"
+msgstr "Columna de pie de página 2"
+
+#: functions.php:199
+msgid "Footer Column 3"
+msgstr "Columna de pie de página 3"
+
+#: functions.php:209
+#, fuzzy
+msgid "Middle Footer"
+msgstr "Pie de página central"
+
+#: functions.php:235 functions.php:287
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr "en"
+
+#: functions.php:250 functions.php:299
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "sin subconjunto"
+
+#: functions.php:391
+msgid "Classic Editor"
+msgstr "Editor clásico"
+
+#: functions.php:396
+#, fuzzy
+msgid "Classic Widgets"
+msgstr "Widgets clásicos"
+
+#: functions/class-tgm-plugin-activation.php:327
+#: functions/class-tgm-plugin-activation.php:328
+msgid "Recommended Plugin"
+msgstr "Plugin Recomendado"
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:332
+#, fuzzy, php-format
+msgid "Updating Plugin: %s"
+msgstr "Actualizando Plugin: %s"
+
+#: functions/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Setup your new website quickly with %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Configure su nuevo sitio web rápidamente con %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin debe actualizarse a su última versión para garantizar la "
+"máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes plugins necesitan actualizarse a la versión más reciente para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente complemento requerido está inactivo: %1$s."
+msgstr[1] "El siguiente plugin requerido se encuentra inactivo: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado esta actualmente inactivo: %1$s."
+msgstr[1] "El siguiente plugin recomendado está inactivo: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:373
+msgid "Install plugin"
+msgid_plural "Install plugins"
+msgstr[0] "Instalar complemento"
+msgstr[1] "Instalar plugins"
+
+#: functions/class-tgm-plugin-activation.php:378
+#, fuzzy
+msgid "Update plugin"
+msgid_plural "Update plugins"
+msgstr[0] "Actualizar plugin"
+msgstr[1] "Actualizar plugins"
+
+#: functions/class-tgm-plugin-activation.php:383
+msgid "Activate plugin"
+msgid_plural "Activate plugins"
+msgstr[0] "Activar complemento"
+msgstr[1] "Activar plugins"
+
+#: functions/class-tgm-plugin-activation.php:387
+#, fuzzy
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins requeridos"
+
+#: functions/class-tgm-plugin-activation.php:388
+#: functions/class-tgm-plugin-activation.php:829
+#: functions/class-tgm-plugin-activation.php:2536
+#: functions/class-tgm-plugin-activation.php:3583
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: functions/class-tgm-plugin-activation.php:389
+#: functions/class-tgm-plugin-activation.php:3162
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: functions/class-tgm-plugin-activation.php:390
+#, fuzzy
+msgid "Plugins activated successfully:"
+msgstr "Plugins activados correctamente:"
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:394
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin no activado. Una versión superior de %s es necesaria para este tema. "
+"Por favor actualice el plugin."
+
+#. translators: 1: dashboard link.
+#: functions/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
+
+#: functions/class-tgm-plugin-activation.php:397
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: functions/class-tgm-plugin-activation.php:398
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más plugins necesarios o recomendados para instalar, actualizar o "
+"activar."
+
+#: functions/class-tgm-plugin-activation.php:399
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Por favor, póngase en contacto con el administrador de este sitio para "
+"obtener ayuda."
+
+#: functions/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: functions/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+#: functions/class-tgm-plugin-activation.php:936
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete del plugin externo no contiene una carpeta con el slug deseado y "
+"el renombrado no ha funcionado."
+
+#: functions/class-tgm-plugin-activation.php:936
+#: functions/class-tgm-plugin-activation.php:939
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Por favor, póngase en contacto con el proveedor del plugin para que "
+"empaqueten su plugin de acuerdo con las directrices de Wordpress ."
+
+#: functions/class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete remoto de plugin consiste en más de un archivo, pero los mismos "
+"no fueron empaquetados en una carpeta."
+
+#: functions/class-tgm-plugin-activation.php:1094
+#, fuzzy
+msgid "Thank you for using the Trusted theme."
+msgstr "Gracias por utilizar el tema Trusted."
+
+#: functions/class-tgm-plugin-activation.php:1123
+#: functions/class-tgm-plugin-activation.php:2951
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#. translators: %s: version number
+#: functions/class-tgm-plugin-activation.php:1985
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: functions/class-tgm-plugin-activation.php:2276
+#, fuzzy
+msgid "Required"
+msgstr "Requerido"
+
+#: functions/class-tgm-plugin-activation.php:2279
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: functions/class-tgm-plugin-activation.php:2295
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: functions/class-tgm-plugin-activation.php:2298
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: functions/class-tgm-plugin-activation.php:2301
+msgid "Pre-Packaged"
+msgstr "Pre-Empaquetado"
+
+#: functions/class-tgm-plugin-activation.php:2318
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: functions/class-tgm-plugin-activation.php:2322
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: functions/class-tgm-plugin-activation.php:2324
+msgid "Active"
+msgstr "Activo"
+
+#: functions/class-tgm-plugin-activation.php:2330
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: functions/class-tgm-plugin-activation.php:2333
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: functions/class-tgm-plugin-activation.php:2336
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#. translators: 1: install status, 2: update status
+#: functions/class-tgm-plugin-activation.php:2345
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2391
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2395
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2399
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización Disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización Disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2403
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para Activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Activar <span class=\"count\">(%s)</span>"
+
+#: functions/class-tgm-plugin-activation.php:2485
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: functions/class-tgm-plugin-activation.php:2493
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: functions/class-tgm-plugin-activation.php:2501
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: functions/class-tgm-plugin-activation.php:2513
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: functions/class-tgm-plugin-activation.php:2536
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: functions/class-tgm-plugin-activation.php:2550
+msgid "Plugin"
+msgstr "Plugin"
+
+#: functions/class-tgm-plugin-activation.php:2551
+msgid "Source"
+msgstr "Fuente"
+
+#: functions/class-tgm-plugin-activation.php:2552
+msgid "Type"
+msgstr "Tipo"
+
+#: functions/class-tgm-plugin-activation.php:2556
+msgid "Version"
+msgstr "Versión"
+
+#: functions/class-tgm-plugin-activation.php:2557
+msgid "Status"
+msgstr "Estado"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2606
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2611
+#, php-format
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2617
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: functions/class-tgm-plugin-activation.php:2687
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: functions/class-tgm-plugin-activation.php:2720
+msgid "Install"
+msgstr "Instalar"
+
+#: functions/class-tgm-plugin-activation.php:2726
+msgid "Update"
+msgstr "Actualizar"
+
+#: functions/class-tgm-plugin-activation.php:2729
+msgid "Activate"
+msgstr "Activar"
+
+#: functions/class-tgm-plugin-activation.php:2760
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Ningún plugin seleccionado para ser instalado. Ninguna acción a realizar."
+
+#: functions/class-tgm-plugin-activation.php:2762
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para actualizarse. Ninguna acción tomada."
+
+#: functions/class-tgm-plugin-activation.php:2803
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: functions/class-tgm-plugin-activation.php:2805
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
+
+#: functions/class-tgm-plugin-activation.php:2911
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Ningún plugin seleccionado para ser activado. Ninguna acción a realizar."
+
+#: functions/class-tgm-plugin-activation.php:2937
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: functions/class-tgm-plugin-activation.php:2955
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin ha sido activado con éxito:"
+msgstr[1] "Los siguientes plugins se activaron con éxito:"
+
+#: functions/class-tgm-plugin-activation.php:3161
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/class-tgm-plugin-activation.php:3504
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Se produjo un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3506
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: functions/class-tgm-plugin-activation.php:3510
+#, fuzzy
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar un poco en algunos servidores, así que por favor sea paciente."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: functions/class-tgm-plugin-activation.php:3512
+#: functions/class-tgm-plugin-activation.php:3520
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: functions/class-tgm-plugin-activation.php:3512
+#: functions/class-tgm-plugin-activation.php:3520
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: functions/class-tgm-plugin-activation.php:3513
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:3518
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación se está iniciando. Este proceso puede tardar un "
+"poco en algunos servidores, así que por favor sea paciente."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: functions/class-tgm-plugin-activation.php:3521
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: functions/customizer.php:24
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: functions/customizer.php:40
+msgid "Phone Number"
+msgstr "Teléfono"
+
+#: functions/customizer.php:57
+#, fuzzy
+msgid "Site Title UPPERCASE"
+msgstr "Título del Sitio MAYÚSCULAS"
+
+#: functions/customizer.php:75
+#, fuzzy
+msgid "Header Image Layout"
+msgstr "Diseño de la imagen de cabecera"
+
+#: functions/customizer.php:76
+#, fuzzy
+msgid "Select behind or below the logo/menu area."
+msgstr "Seleccione detrás o debajo del logotipo/área del menú."
+
+#: functions/customizer.php:100
+#, fuzzy
+msgid "Minimum Height (Homepage)"
+msgstr "Altura mínima (Homepage)"
+
+#: functions/customizer.php:123
+#, fuzzy
+msgid "Minimum Height (Other Pages)"
+msgstr "Altura mínima (Otras páginas)"
+
+#: functions/customizer.php:146
+#, fuzzy
+msgid "Horizontal Offset (%)"
+msgstr "Desplazamiento horizontal (%)"
+
+#: functions/customizer.php:147
+#, fuzzy
+msgid ""
+"Used to make the main focus of your image appear on smaller screens or where "
+"the image is wider than the visible screen. The default setting is 65%."
+msgstr ""
+"Se utiliza para hacer que el foco principal de su imagen aparezca en "
+"pantallas más pequeñas o donde la imagen es más ancha que la pantalla "
+"visible. El ajuste predeterminado es 65%."
+
+#: functions/customizer.php:171
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: functions/customizer.php:172
+#, fuzzy
+msgid ""
+"Only takes effect if not using an image or an image with some transparency."
+msgstr ""
+"Sólo tiene efecto si no se utiliza una imagen o una imagen con cierta "
+"transparencia."
+
+#: functions/customizer.php:190
+msgid "Color"
+msgstr "Color"
+
+#: functions/customizer.php:209
+#, fuzzy
+msgid "No Color (Transparent Background)"
+msgstr "Sin color (fondo transparente)"
+
+#: functions/customizer.php:218 functions/theme-help.php:69
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: functions/customizer.php:235
+#, fuzzy
+msgid "Enable Reveal Animations"
+msgstr "Habilitar Animaciones de Revelación"
+
+#: functions/customizer.php:252
+#, fuzzy
+msgid "Primary Menu Centered"
+msgstr "Centrado en el menú principal"
+
+#: functions/customizer.php:270
+#, fuzzy
+msgid "Primary Menu UPPERCASE"
+msgstr "Menú Principal MAYÚSCULAS"
+
+#: functions/customizer.php:287
+#, fuzzy
+msgid "Show Search Icon In Menu"
+msgstr "Mostrar el icono de búsqueda en el menú"
+
+#: functions/customizer.php:288
+#, fuzzy
+msgid ""
+"Search icon will only display if you have set your own menu as Primary Menu "
+"in Appearance >> Menus"
+msgstr ""
+"El icono de búsqueda sólo aparecerá si ha establecido su propio menú como "
+"Menú principal en Apariencia >> Menús"
+
+#: functions/customizer.php:306
+#, fuzzy
+msgid "Disable Headings Underline"
+msgstr "Desactivar subrayado de encabezados"
+
+#: functions/customizer.php:307
+#, fuzzy
+msgid "H1, H2, H3, H4, H5, H6 headings in post/page content"
+msgstr "Rúbricas H1, H2, H3, H4, H5, H6 en el contenido de la página/página"
+
+#: functions/customizer.php:318
+msgid "Page Title Alignment"
+msgstr "Alineación del título de la página"
+
+#: functions/customizer.php:322 functions/customizer.php:403
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions/customizer.php:323
+msgid "Center"
+msgstr "Centro"
+
+#: functions/customizer.php:324 functions/customizer.php:404
+msgid "Right"
+msgstr "Derecha"
+
+#: functions/customizer.php:343
+#, fuzzy
+msgid "Page Title Icon"
+msgstr "Icono del título de la página"
+
+#: functions/customizer.php:364
+#, fuzzy
+msgid "Blog Title Icon"
+msgstr "Icono del título del blog"
+
+#: functions/customizer.php:385
+#, fuzzy
+msgid "Shop Title Icon"
+msgstr "Icono de título de la tienda"
+
+#: functions/customizer.php:399
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: functions/customizer.php:420
+msgid "Enable Sticky Footer"
+msgstr "Activar Pie de página pegajoso"
+
+#: functions/customizer.php:421
+msgid ""
+"Position the footer at the bottom of the screen on pages with little content"
+msgstr ""
+"Coloque el pie de página en la parte inferior de la pantalla en las páginas "
+"con poco contenido"
+
+#: functions/customizer.php:433
+msgid "Header Style"
+msgstr "Estilo de Header"
+
+#: functions/customizer.php:437
+msgid "Dark"
+msgstr "Oscuro"
+
+#: functions/customizer.php:438
+msgid "Light"
+msgstr "Claro"
+
+#: functions/customizer.php:455
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: functions/customizer.php:475
+msgid "Secondary Color"
+msgstr "Color Secundario"
+
+#: functions/customizer.php:495
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: functions/customizer.php:515
+msgid "Headings Color"
+msgstr "Color de Encabezados"
+
+#: functions/customizer.php:524
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions/customizer.php:535
+msgid "Header"
+msgstr "Cabecera"
+
+#: functions/customizer.php:548
+msgid "Navigation"
+msgstr "Navegación"
+
+#: functions/customizer.php:561
+msgid "Page Title"
+msgstr "Título de la página"
+
+#: functions/customizer.php:574
+msgid "Content"
+msgstr "Contenido"
+
+#: functions/customizer.php:587
+msgid "Headings"
+msgstr "Encabezados"
+
+#: functions/customizer.php:600
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions/customizer.php:610
+#, fuzzy
+msgid "Static Homepage Options"
+msgstr "Opciones de página de inicio estática"
+
+#: functions/customizer.php:620
+#, fuzzy
+msgid "Activate and Sort Homepage Sections"
+msgstr "Activar sección destacada"
+
+#: functions/customizer.php:647
+#, fuzzy
+msgid "Homepage Sections"
+msgstr "Opciones de página de inicio estática"
+
+#: functions/customizer.php:648 functions/customizer.php:843
+#, fuzzy
+msgid ""
+"Check the box to display. Sortable: drag and drop into your preferred order."
+msgstr ""
+"Marque la casilla para mostrar. Ordenable: arrastre y suelte en el orden que "
+"prefiera."
+
+#: functions/customizer.php:660 functions/extras.php:1172
+msgid "Featured Services"
+msgstr "Servicios Destacados"
+
+#: functions/customizer.php:661
+#, fuzzy
+msgid ""
+"By default this displays the 3 most recent posts. To override this, select a "
+"page for the first feature."
+msgstr ""
+"De forma predeterminada, muestra los 3 mensajes más recientes. Para "
+"anularlo, seleccione una página para la primera función."
+
+#: functions/customizer.php:678
+#, fuzzy
+msgid "Enable 'Read More' Buttons"
+msgstr "Habilitar los botones'Leer más"
+
+#: functions/customizer.php:700
+msgid "Feature "
+msgstr "Característica "
+
+#: functions/customizer.php:721
+msgid "Icon"
+msgstr "Icono"
+
+#: functions/customizer.php:740 functions/customizer.php:787
+msgid "Select Page"
+msgstr "Seleccionar página"
+
+#: functions/customizer.php:741
+#, fuzzy
+msgid ""
+"Displays title and excerpt of selected page. You can add an optional hand-"
+"crafted excerpt in the page editor (make sure []excerpt is checked in Screen "
+"Options)."
+msgstr ""
+"Muestra el título y el extracto de la página seleccionada. Puede agregar un "
+"extracto opcional hecho a mano en el editor de páginas (asegúrese de que la "
+"opción []extracto esté marcada en Opciones de pantalla)."
+
+#: functions/customizer.php:751 functions/extras.php:1177
+msgid "About Section"
+msgstr "Sección Acerca de"
+
+#: functions/customizer.php:752
+#, fuzzy
+msgid "Displays title, excerpt and featured image of selected page."
+msgstr ""
+"Muestra el título, el extracto y la imagen destacada de la página "
+"seleccionada."
+
+#: functions/customizer.php:769
+#, fuzzy
+msgid "Enable 'Read More' Button"
+msgstr "Habilitar el botón'Leer más"
+
+#: functions/customizer.php:797
+msgid "Featured Image Position"
+msgstr "Posición de imagen destacada"
+
+#: functions/customizer.php:801
+msgid "Image Left"
+msgstr "Imagen a la izquierda"
+
+#: functions/customizer.php:802
+msgid "Image Right"
+msgstr "Imagen a derecha"
+
+#: functions/customizer.php:803
+msgid "Stacked"
+msgstr "Apilado"
+
+#: functions/customizer.php:804
+#, fuzzy
+msgid "Stacked (Centered)"
+msgstr "Apilado (Centrado)"
+
+#: functions/customizer.php:813 functions/extras.php:1183
+msgid "Shop Tabs"
+msgstr "Fichas de tienda"
+
+#: functions/customizer.php:842
+#, fuzzy
+msgid "Home Page Shop Tabs"
+msgstr "Página principal Pestañas de la tienda"
+
+#: functions/customizer.php:861
+#, fuzzy
+#| msgid "Featured"
+msgid "Featured: Order"
+msgstr "Destacado"
+
+#: functions/customizer.php:864 functions/customizer.php:893
+msgid "Default"
+msgstr "Por defecto"
+
+#: functions/customizer.php:865 functions/customizer.php:894
+#, fuzzy
+msgid "Title: A to Z"
+msgstr "Título: De la A a la Z"
+
+#: functions/customizer.php:866 functions/customizer.php:895
+#, fuzzy
+msgid "Title: Z to A"
+msgstr "Título: De la Z a la A"
+
+#: functions/customizer.php:867 functions/customizer.php:896
+#, fuzzy
+msgid "Date: New to Old"
+msgstr "Date: De nuevo a viejo"
+
+#: functions/customizer.php:868 functions/customizer.php:897
+#, fuzzy
+msgid "Date: Old to New"
+msgstr "Date: De lo viejo a lo nuevo"
+
+#: functions/customizer.php:869 functions/customizer.php:898
+msgid "Price: High to Low"
+msgstr "Precio: más alto a más bajo"
+
+#: functions/customizer.php:870 functions/customizer.php:899
+msgid "Price: Low to High"
+msgstr "Precio: más bajo a más alto"
+
+#: functions/customizer.php:871 functions/customizer.php:900
+#: functions/extras.php:1116
+msgid "Top Selling"
+msgstr "Más Vendidos"
+
+#: functions/customizer.php:872 functions/customizer.php:901
+#: functions/extras.php:1122
+msgid "Top Rated"
+msgstr "Mejor Valorados"
+
+#: functions/customizer.php:873 functions/customizer.php:902
+msgid "Random"
+msgstr "Aleatorio"
+
+#: functions/customizer.php:890
+#, fuzzy
+msgid "Sale: Order"
+msgstr "Venta: Pedido"
+
+#: functions/customizer.php:919 functions/extras.php:1128
+msgid "Custom"
+msgstr "Personalizado"
+
+#: functions/customizer.php:920
+#, fuzzy
+msgid ""
+"Select a Private Page. Create your custom content in a new page and set the "
+"page \"visibility\" to \"private\" and it will be available to select here."
+msgstr ""
+"Seleccione una página privada. Crea tu contenido personalizado en una nueva "
+"página y establece la \"visibilidad\" de la página en \"privada\" y estará "
+"disponible para seleccionar aquí."
+
+#: functions/customizer.php:931 functions/extras.php:1194
+#, fuzzy
+msgid "Recent Posts Section"
+msgstr "Sección de Mensajes Recientes"
+
+#: functions/customizer.php:932
+#, fuzzy
+msgid "Displays your most recent posts."
+msgstr "Muestra los mensajes más recientes."
+
+#: functions/customizer.php:940 functions/extras.php:969
+msgid "From Our Blog"
+msgstr "De nuestro blog"
+
+#: functions/customizer.php:951
+msgid "Title"
+msgstr "Título"
+
+#: functions/customizer.php:960 functions/extras.php:1199
+#, fuzzy
+msgid "Call-to-action Panel"
+msgstr "Panel de llamada a la acción"
+
+#: functions/customizer.php:961
+#, fuzzy
+msgid "Displays phone number and optional button link to selected page."
+msgstr ""
+"Muestra el número de teléfono y el enlace de botón opcional a la página "
+"seleccionada."
+
+#: functions/customizer.php:979
+#, fuzzy
+msgid "Select Page For Button Link"
+msgstr "Seleccionar página para enlace de botones"
+
+#: functions/customizer.php:996
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: functions/customizer.php:1006 functions/customizer.php:1017
+#: functions/customizer.php:1079
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: functions/customizer.php:1008 functions/theme-help.php:99
+#, fuzzy
+msgid ""
+"Upgrade to Trusted Pro for even more cool features and customization options."
+msgstr ""
+"Actualícese a Trusted Pro para obtener aún más funciones y opciones de "
+"personalización."
+
+#: functions/customizer.php:1062
+#, fuzzy
+msgid "More options available"
+msgstr "Más opciones disponibles"
+
+#: functions/customizer.php:1071
+msgid "Documentation"
+msgstr "Documentación"
+
+#: functions/customizer.php:1109
+msgid "Search..."
+msgstr "Buscar..."
+
+#: functions/customizer.php:1428
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleccionar &mdash;"
+
+#: functions/extras.php:56
+#, fuzzy
+msgid "Create your Primary Menu here"
+msgstr "Crea tu Menú Principal aquí"
+
+#: functions/extras.php:87 functions/extras.php:733 functions/extras.php:764
+#: functions/extras.php:820 functions/extras.php:997
+msgid "Read More"
+msgstr "Leer Más"
+
+#: functions/extras.php:407 functions/extras.php:420
+msgid "Search for:"
+msgstr "Búsqueda para:"
+
+#: functions/extras.php:412
+msgid "All"
+msgstr "Todo"
+
+#: functions/extras.php:420
+msgid "Search "
+msgstr "Buscar "
+
+#: functions/extras.php:1067
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: functions/extras.php:1067
+#, php-format
+msgid "Powered by %s"
+msgstr "Propulsado por %s"
+
+#: functions/extras.php:1069
+#, php-format
+msgid "Theme: %2$s by %1$s"
+msgstr "Tema: %2$s por %1$s"
+
+#: functions/extras.php:1098
+msgid "Recent"
+msgstr "Reciente"
+
+#: functions/extras.php:1104
+msgid "Featured"
+msgstr "Destacado"
+
+#: functions/extras.php:1110
+msgid "Sale"
+msgstr "Venta"
+
+#: functions/extras.php:1189
+msgid "Page Content"
+msgstr "Contenido de página"
+
+#: functions/header-title.php:122
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda por: %s"
+
+#: functions/header-title.php:125
+msgid "404 Error"
+msgstr "Error 404"
+
+#: functions/template-tags.php:36
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: functions/template-tags.php:38
+msgid " Comments"
+msgstr " Comentarios"
+
+#: functions/template-tags.php:40
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#. translators: used between list items, there is a space after the comma
+#: functions/template-tags.php:61
+msgid ", "
+msgstr ", "
+
+#: functions/theme-help.php:19 functions/theme-help.php:32
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: functions/theme-help.php:19
+#, fuzzy
+#| msgid "Trusted"
+msgid "Trusted Help"
+msgstr "Trusted"
+
+#: functions/theme-help.php:38
+msgid "Theme Links"
+msgstr "Enláces del Tema"
+
+#: functions/theme-help.php:39
+msgid "Theme Page"
+msgstr "Página del Tema"
+
+#: functions/theme-help.php:40
+msgid "Theme Demo"
+msgstr "Tema de demostración"
+
+#: functions/theme-help.php:41
+msgid "Theme Support"
+msgstr "Soporte del tema"
+
+#: functions/theme-help.php:42
+#, fuzzy
+msgid "Please rate or review this theme"
+msgstr "Valore o reseñe este tema"
+
+#: functions/theme-help.php:49
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Introducción a %s"
+
+#: functions/theme-help.php:56
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: functions/theme-help.php:59
+#, fuzzy
+msgid ""
+"Do you need help to setup, configure and customize this theme? Check out the "
+"extensive theme documentation on our website."
+msgstr ""
+"¿Necesita ayuda para instalar, configurar y personalizar este tema? Consulte "
+"la amplia documentación temática en nuestro sitio web."
+
+#: functions/theme-help.php:63
+msgid "View Documentation"
+msgstr "Ver Documentación"
+
+#: functions/theme-help.php:72
+#, fuzzy, php-format
+msgid "%s makes use of the Customizer for the theme settings."
+msgstr "%s utiliza el Personalizador para la configuración del tema."
+
+#: functions/theme-help.php:76
+msgid "Customize Theme"
+msgstr "Personalizar el tema"
+
+#: functions/theme-help.php:82
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: functions/theme-help.php:85
+#, fuzzy
+msgid "Looking for the classic editing experience?"
+msgstr "¿Busca la experiencia de edición clásica?"
+
+#. translators: %s: theme name.
+#: functions/theme-help.php:91
+#, fuzzy, php-format
+msgid "%s recommends the Classic Editor and Classic Widgets"
+msgstr "%s recomienda el editor clásico y los widgets clásicos"
+
+#: functions/theme-help.php:96
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: functions/theme-help.php:103
+msgid "GO PRO"
+msgstr "HAZTE PRO"
+
+#: functions/theme-help.php:125
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s lo suministra %2$s. Si te gusta este tema WP, %3$s :)"
+
+#: functions/theme-help.php:125
+msgid "Trusted Review"
+msgstr "Reseña de Trusted"
+
+#: functions/theme-help.php:125
+msgid "rate it"
+msgstr "valora este tema"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Theme Name of the plugin/theme
+msgid "Trusted"
+msgstr "Trusted"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://uxlthemes.com/theme/trusted/"
+msgstr "https://uxlthemes.com/theme/trusted/"
+
+#. Author of the plugin/theme
+msgid "UXL Themes"
+msgstr "UXL Themes"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://uxlthemes.com"
+msgstr "https://uxlthemes.com"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "Blank Canvas (Full Width and No Container)"
+msgstr "Lienzo en blanco (ancho completo y sin contenedor)"
+
+#. Template Name of the plugin/theme
+msgid "Blank Canvas"
+msgstr "Lienzo en blanco"
+
+#~ msgid "Rate this theme"
+#~ msgstr "Valora este tema"
+
+#, fuzzy
+#~| msgid "Content"
+#~ msgid "Demo Content"
+#~ msgstr "Contenido"
+
+#, fuzzy
+#~ msgid "Disable Static Front Page Content"
+#~ msgstr "Desactivar el contenido estático de la página principal"
+
+#, fuzzy
+#~ msgid "Requires WooCommerce Plugin."
+#~ msgstr "Requiere WooCommerce Plugin."
+
+#, fuzzy
+#~ msgid "Activate Recent Posts Section"
+#~ msgstr "Activar la sección de Mensajes Recientes"
+
+#, fuzzy
+#~ msgid "Activate Call-to-action Panel"
+#~ msgstr "Activar el panel de llamada a la acción"
+
+#~ msgid "Theme Help"
+#~ msgstr "Ayuda del tema"
+
+#~ msgid ""
+#~ "Trusted WordPress theme is simple yet elegant with a fully responsive "
+#~ "design. It has been designed to be modern and fresh and is suitable for "
+#~ "many type of website, blog or e-commerce store. It is designed to "
+#~ "integrate with the WooCommerce plugin to give your site an attractive "
+#~ "shop front. The colors can be changed in the customizer and previewed "
+#~ "fast in real time. The header has both dark and light styles and features "
+#~ "telephone number as well as WooCommerce account/login/register and "
+#~ "shopping cart. The static front page features 3 (three) featured services "
+#~ "with icon selection, WooCommerce tabs to showcase your products and a "
+#~ "full width phone/call-to-action panel. There is also a Blank Canvas page "
+#~ "template with no page title or sidebar, containing only the masthead and "
+#~ "footer, ideal for use with page builder plugins. The Trusted theme also "
+#~ "comes with 9 (nine) widget areas including 4 (four) distinct sidebars for "
+#~ "blog, page, home page and shop. Other widget areas allow you to add your "
+#~ "own content to the top bar, 3 (three) footer columns and an extra middle "
+#~ "footer area. It also supports a main primary navigation menu and a footer "
+#~ "menu which has support for social media icons/links."
+#~ msgstr ""
+#~ "El tema Trusted de WordPress de confianza es simple pero elegante con un "
+#~ "diseño totalmente receptivo. Ha sido diseñado para ser moderno y fresco y "
+#~ "es adecuado para muchos tipos de sitios web, blogs o tiendas de comercio "
+#~ "electrónico. Está diseñado para integrarse con el plugin WooCommerce para "
+#~ "dar a su sitio una atractiva fachada de tienda. Los colores pueden ser "
+#~ "cambiados en el personalizador y previsualizados rápidamente en tiempo "
+#~ "real. El encabezado tiene estilos oscuro y claro y cuenta con un número "
+#~ "de teléfono, así como una cuenta de WooCommerce, un registro y un carrito "
+#~ "de compras. La página principal estática ofrece 3 (tres) servicios "
+#~ "destacados con selección de iconos, pestañas de WooCommerce para mostrar "
+#~ "tus productos y un panel de teléfono/llamada a la acción de ancho "
+#~ "completo. También hay una plantilla de página de lienzo en blanco sin "
+#~ "título de página ni barra lateral, que contiene sólo la cabecera y el pie "
+#~ "de página, ideal para su uso con plugins de generador de páginas. El tema "
+#~ "de Trusted también viene con 9 (nueve) áreas de widgets, incluyendo 4 "
+#~ "(cuatro) barras laterales distintas para blog, página, página de inicio y "
+#~ "tienda. Otras áreas de widgets le permiten añadir su propio contenido a "
+#~ "la barra superior, 3 (tres) columnas de pie de página y un área de pie de "
+#~ "página central adicional. También soporta un menú principal de navegación "
+#~ "y un menú de pie de página que soporta iconos/enlaces de medios sociales."
