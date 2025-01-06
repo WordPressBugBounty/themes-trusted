@@ -1091,11 +1091,11 @@ if ( ! class_exists( 'TGM_Plugin_Activation' ) ) {
 			// If we have notices to display, we move forward.
 			if ( ! empty( $message ) || $total_required_action_count > 0 ) {
 				krsort( $message ); // Sort messages.
-				$rendered = '<span style="display: block; font-size: 1.5em; margin: 0.5em 0.5em 1em 0; clear: both;">' . esc_html__( 'Thank you for using the Trusted theme.', 'trusted' ) . '</span>';
+				$rendered = '<span style="display: block; font-size: 1.2em; margin: 0.5em 0.5em 1em 0; clear: both;">' . esc_html__( 'Thank you for using the Trusted classic theme.', 'trusted' ) . '</span>';
 
 				// As add_settings_error() wraps the final message in a <p> and as the final message can't be
 				// filtered, using <p>'s in our html would render invalid html output.
-				$line_template = '<span style="display: block; font-size: 1.2em; font-weight: normal; margin: 1em 0.5em 1em 0; clear: both;">%s</span>' . "\n";
+				$line_template = '<span style="display: block; font-weight: normal; margin: 1em 0.5em 1em 0; clear: both;">%s</span>' . "\n";
 
 				if ( ! current_user_can( 'activate_plugins' ) && ! current_user_can( 'install_plugins' ) && ! current_user_can( 'update_plugins' ) ) {
 					$rendered  = esc_html( $this->strings['notice_cannot_install_activate'] ) . ' ' . esc_html( $this->strings['contact_admin'] );
