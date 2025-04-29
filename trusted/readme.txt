@@ -2,9 +2,9 @@
 Trusted WordPress Theme, Copyright UXL Themes
 Trusted is distributed under the terms of the GNU GPL (http://www.gnu.org/licenses/gpl-2.0.html)
 Contributors: uxl
-Stable tag: 1.10.0
+Stable tag: 1.11.0
 Requires at least: 5.9
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,6 +15,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 3. Click Activate to use your new theme right away.
 
 == Changelog ==
+1.11.0 - Apr 29, 2025
+Tested up to WP 6.8
+Removed block theme recommendation
+
 1.10.0 - Jan 06, 2025
 Tested up to WP 6.7
 
